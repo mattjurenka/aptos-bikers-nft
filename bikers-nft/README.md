@@ -1,2 +1,4 @@
-Deployed Collection: `0x4f7158b97e8a4c29290a495b7be9a60e6c490b9eca5ad47cee9a5adcc40d473c`
-Deployed Module: `0x70f34d42c895ff51dbd2b89c2da8b2434ace29d49d874d1724f9fbd87ad801cd`
+Deployed Collection: `0xe093d16b45e00b1c37cea71cf9890570fe4a20c7ee0553a4fd8cb17d1d241f98`
+Deployed Module: `0x77fb5824277b2d03e3f0ee4f95546b03118a5012d7e99be0ba2dc19327717206`
+
+Deploy: `aptos move deploy`
