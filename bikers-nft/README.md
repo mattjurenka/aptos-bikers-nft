@@ -1,0 +1,2 @@
+Deployed Collection: `0x4f7158b97e8a4c29290a495b7be9a60e6c490b9eca5ad47cee9a5adcc40d473c`
+Deployed Module: `0x70f34d42c895ff51dbd2b89c2da8b2434ace29d49d874d1724f9fbd87ad801cd`
